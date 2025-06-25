@@ -44,8 +44,6 @@ Whether you're aiming to reduce your electricity bill or track appliance usage, 
 
 ---
 
----
-
 ## 🚀 How It Works
 
 1. ESP32 reads voltage & current from sensors
@@ -73,13 +71,6 @@ Whether you're aiming to reduce your electricity bill or track appliance usage, 
 
 - [project_report.pdf](./project_report.pdf) — Full technical report
 - [presentation.pptx](./presentation.pptx) — Mini project demonstration slides
-
----
-
-## 👥 Team Members
-
-- *Ankit Ghosal* — Code, Circuit, Integration, Documentation  
-- (Add more teammates here if applicable)
 
 ---
 
